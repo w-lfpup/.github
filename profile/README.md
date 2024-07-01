@@ -1,23 +1,30 @@
 # Wolfpup Software
 
-aawWWoOOO!
+I am wolfpup.
+
+I write software and tutorials for other pups.
+
+aawwooo!
 
 ## Libraries
 
-### Browser
-
-- [baseboard-css](https://github.com/wolfpup-software/baseboard-css) - concise reset stylesheet
-- [hx-js](https://github.com/wolfpup-software/hx-js) - hypertext extension
-- [jackrabbit-js](https://github.com/wolfpup-software/jackrabbit-js) - test runner
-- [timestep-js](https://github.com/wolfpup-software/timestep-js) - integrated timestep
-- [wctk-js](https://github.com/wolfpup-software/wctk-js) - web component tool kit
-
 ### Rust
-- [txml-rs](https://github.com/wolfpup-software/txml-rs) - create xml and html from function components
+
+- [coyote-rs](https://github.com/wolfpup-software/txml-rs) - create documents with function components
 - [snowprints-rs](https://github.com/wolfpup-software/snowprints-rs) - generate unique and sortable ids
 
-## Applications
+### Browser
+
+- [wctk-js](https://github.com/wolfpup-software/wctk-js) - the web component tool kit
+- [hx-js](https://github.com/wolfpup-software/hx-js) - a hypertext extension
+- [jackrabbit-js](https://github.com/wolfpup-software/jackrabbit-js) - a test runner
+- [timestep-js](https://github.com/wolfpup-software/timestep-js) - an integrated timestep
+- [baseboard-css](https://github.com/wolfpup-software/baseboard-css) - a kind of reset stylesheet
+
+## Software
+
+### Rust
 
 - [file_server](https://github.com/wolfpup-software/file_server) - serve files over http
-- [gateway](https://github.com/wolfpup-software/gateway) - forward HTTPS requests to other servers
-- [update_ip](https://github.com/wolfpup-software/update_ip) - send ip address changes to ddns services
+- [gateway](https://github.com/wolfpup-software/gateway) - forward https requests to downstream servers
+- [update_ip](https://github.com/wolfpup-software/update_ip) - send ip address updates to ddns services
