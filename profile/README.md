@@ -1,10 +1,16 @@
 # Wolfpup Software
 
-I am wolfpup.
+Aawwooo!
 
-I write software and tutorials for other pups.
+I write software and tutorials, mostly for the web.
 
-aawwooo!
+## Software
+
+### Rust
+
+- [file_server](https://github.com/wolfpup-software/file_server) - serve files over http
+- [reverse_proxy](https://github.com/wolfpup-software/reverse_proxy) - route https requests to upstream servers
+- [update_ip](https://github.com/wolfpup-software/update_ip) - send ip address updates to ddns services
 
 ## Libraries
 
@@ -20,11 +26,3 @@ aawwooo!
 - [jackrabbit-js](https://github.com/wolfpup-software/jackrabbit-js) - a test runner
 - [timestep-js](https://github.com/wolfpup-software/timestep-js) - an integrated timestep
 - [baseboard-css](https://github.com/wolfpup-software/baseboard-css) - a kind of reset stylesheet
-
-## Software
-
-### Rust
-
-- [file_server](https://github.com/wolfpup-software/file_server) - serve files over http
-- [reverse_proxy](https://github.com/wolfpup-software/reverse_proxy) - route https requests to upstream servers
-- [update_ip](https://github.com/wolfpup-software/update_ip) - send ip address updates to ddns services
