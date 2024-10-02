@@ -26,5 +26,5 @@ aawwooo!
 ### Rust
 
 - [file_server](https://github.com/wolfpup-software/file_server) - serve files over http
-- [gateway](https://github.com/wolfpup-software/gateway) - forward https requests to downstream servers
+- [reverse_proxy](https://github.com/wolfpup-software/reverse_proxy) - route https requests to upstream servers
 - [update_ip](https://github.com/wolfpup-software/update_ip) - send ip address updates to ddns services
