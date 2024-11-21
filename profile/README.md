@@ -19,14 +19,17 @@ I write software and tutorials, mostly for the web.
 ### Rust
 
 - [coyote-rs](https://github.com/wolfpup-software/coyote-rs) - create html documents with function components
-- [puckette-rs](https://github.com/wolfpup-software/reverse_proxy) - (work in progress) mangle audio signals with graphs
+- [puckette-rs](https://github.com/wolfpup-software/puckette-rs) - (work in progress) mangle audio signals with interactive graphs
 - [snowprints-rs](https://github.com/wolfpup-software/snowprints-rs) - generate unique and sortable 64bit ids
 
-### Browser
+### Javascript
 
-- [baseboard-css](https://github.com/wolfpup-software/baseboard-css) - a kind of reset stylesheet
 - [coyote-js](https://github.com/wolfpup-software/coyote-js) - create documents with function components
 - [hx-js](https://github.com/wolfpup-software/hx-js) - a hypertext extension
 - [jackrabbit-js](https://github.com/wolfpup-software/jackrabbit-js) - a test runner
 - [timestep-js](https://github.com/wolfpup-software/timestep-js) - an integrated timestep
 - [wctk-js](https://github.com/wolfpup-software/wctk-js) - a web component tool kit for minimalists
+
+### CSS
+
+- [baseboard-css](https://github.com/wolfpup-software/baseboard-css) - a kind of reset stylesheet
