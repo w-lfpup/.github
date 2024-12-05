@@ -1,8 +1,8 @@
 # Wolfpup Software
 
-Aawwooo!
+I write software and tutorials, mostly for web technologies.
 
-I write software and tutorials, mostly for the web.
+Aawwooo!
 
 ## Software
 
@@ -12,7 +12,7 @@ I write software and tutorials, mostly for the web.
 - [homebase](https://github.com/wolfpup-software/homebase) - (work-in progress) personal clouds and streaming media
 - [http_redirect](https://github.com/wolfpup-software/http_redirect) - send unencypted requests to their https counterpart
 - [reverse_proxy](https://github.com/wolfpup-software/reverse_proxy) - route https requests to upstream servers
-- [update_ip](https://github.com/wolfpup-software/update_ip) - send ip address updates to ddns services
+- [update_dns_records](https://github.com/wolfpup-software/update_dns_records) - send ip address updates to ddns services
 
 ## Libraries
 
