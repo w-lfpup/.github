@@ -9,8 +9,6 @@ Aawwooo!
 ### Rust
 
 - [file_server](https://github.com/wolfpup-software/file_server) - serve files over http
-- [homebase](https://github.com/wolfpup-software/homebase) - (work-in progress) personal clouds and streaming media
-- [http_redirect](https://github.com/wolfpup-software/http_redirect) - send unencypted requests to their https counterpart
 - [reverse_proxy](https://github.com/wolfpup-software/reverse_proxy) - route https requests to upstream servers
 - [update_dns_records](https://github.com/wolfpup-software/update_dns_records) - send ip address updates to ddns services
 
@@ -19,7 +17,6 @@ Aawwooo!
 ### Rust
 
 - [coyote-rs](https://github.com/wolfpup-software/coyote-rs) - create html documents with function components
-- [puckette-rs](https://github.com/wolfpup-software/puckette-rs) - (work in progress) mangle audio signals with interactive graphs
 - [snowprints-rs](https://github.com/wolfpup-software/snowprints-rs) - generate unique and sortable 64bit ids
 - [walk_directory-rs](https://github.com/wolfpup-software/walk_directory-rs) - walk and copy directories
 
