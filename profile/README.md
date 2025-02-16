@@ -22,8 +22,6 @@ Aawwooo!
 
 ### Javascript
 
-- [coyote-js](https://github.com/wolfpup-software/coyote-js) - create documents with function components
-- [hx-js](https://github.com/wolfpup-software/hx-js) - a hypertext extension
 - [jackrabbit-js](https://github.com/wolfpup-software/jackrabbit-js) - a test runner
 - [timestep-js](https://github.com/wolfpup-software/timestep-js) - an integrated timestep
 - [wctk-js](https://github.com/wolfpup-software/wctk-js) - a web component tool kit for minimalists
