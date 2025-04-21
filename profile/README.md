@@ -17,7 +17,7 @@ Aawrooo!
 - [coyote-js](https://github.com/w-lfpup/coyote-js/) - create html with function components
 - [jackrabbit-js](https://github.com/w-lfpup/jackrabbit-js/) - a test runner without dependencies
 - [timestep-js](https://github.com/w-lfpup/timestep-js/) - an integrated timestep for the browser
-- [wctk-js](https://github.com/w-lfpup/wctk-js/) - a bare metal browser tool kit for web components
+- [wctk-js](https://github.com/w-lfpup/wctk-js/) - a web component tool kit
 
 ### Rust
 
