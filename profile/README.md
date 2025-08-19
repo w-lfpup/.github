@@ -15,8 +15,9 @@ Aawrooo!
 ### Javascript
 
 - [coyote-js](https://github.com/w-lfpup/coyote-js/) - create html with function components
+- [hyperevents-js](https://github.com/w-lfpup/hyperevents-js/) - a hypertext extension for the browser
 - [jackrabbit-js](https://github.com/w-lfpup/jackrabbit-js/) - a test runner without dependencies
-- [superaction-js](https://github.com/w-lfpup/superaction-js/) - declare actions from events in the browser
+- [superaction-js](https://github.com/w-lfpup/superaction-js/) - actions (think redux actions) from events in the browser
 - [timestep-js](https://github.com/w-lfpup/timestep-js/) - an integrated timestep for the browser
 - [wctk-js](https://github.com/w-lfpup/wctk-js/) - a web component tool kit
 
