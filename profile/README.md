@@ -25,6 +25,7 @@ Aawrooo!
 
 - [coyote-rs](https://github.com/w-lfpup/coyote-rs/) - create html with function components
 - [snowprints-rs](https://github.com/w-lfpup/snowprints-rs/) - generate unique and sortable 64bit ids
+- [sqlite_connection_pool-rs](https://github.com/w-lfpup/sqlite_connection_pool-rs/) - use sqlite in asynchronous and threaded applications
 
 ## Software
 
