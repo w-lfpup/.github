@@ -6,7 +6,7 @@ I am an independent creator / dog on the internet.
 
 I write software and educational materials, mostly for web technologies.
 
-If you find my work useful, support me on [patreon](https://www.patreon.com/cw/w_lfpup) or maybe buy me a [ko-fi](https://ko-fi.com/w_lfpup). 
+If you find my work useful, support me on [patreon](https://patreon.com/cw/w_lfpup) or maybe buy me a [ko-fi](https://ko-fi.com/w_lfpup). 
 
 ## Libraries
 
