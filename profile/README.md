@@ -2,14 +2,11 @@
 
 ## About me
 
-I am an independent creator / dog on the internet.
+I am an independent creator and dog on the internet.
 
-I write software and educational materials, mostly for web technologies.
+I write software and educational materials mostly for web technologies.
 
-If you enjoy my work, please consider supporting me on:
-- [patreon](https://www.patreon.com/cw/w_lfpup)
-- [ko-fi](https://ko-fi.com/w_lfpup)
-- [buymeacoffee](buymeacoffee.com/w_lfpup)
+If you find my work useful, support me on [patreon](https://patreon.com/cw/w_lfpup) or maybe buy me a [ko-fi](https://ko-fi.com/w_lfpup). 
 
 ## Libraries
 
