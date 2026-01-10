@@ -13,6 +13,7 @@ If you find my work useful, support me on [patreon](https://patreon.com/cw/w_lfp
 ### Javascript
 
 - [jackrabbit-js](https://github.com/w-lfpup/jackrabbit-js/) - a test runner without dependencies
+- [hyperevents-js](https://github.com/w-lfpup/hyperevents-js/) - A hypertext extension for the browser
 - [superaction-js](https://github.com/w-lfpup/superaction-js/) - dispatch action events in the browser
 - [timestep-js](https://github.com/w-lfpup/timestep-js/) - an integrated timestep for the browser
 - [wctk-js](https://github.com/w-lfpup/wctk-js/) - a web component tool kit
