@@ -12,7 +12,7 @@ If you find my work helpful, support me on [patreon](https://patreon.com/cw/w_lf
 
 ### Javascript
 
-- [coyote-js](https://github.com/w-lfpup/coyote-go/) - Build HTML with templates and components
+- [coyote-js](https://github.com/w-lfpup/coyote-js/) - Build HTML with templates and components
 - [jackrabbit-js](https://github.com/w-lfpup/jackrabbit-js/) - A test runner for nodejs and the browser
 - [hyperevents-js](https://github.com/w-lfpup/hyperevents-js/) - A hypertext extension
 - [superaction-js](https://github.com/w-lfpup/superaction-js/) - A declarative event-bus
