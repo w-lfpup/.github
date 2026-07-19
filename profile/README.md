@@ -1,12 +1,10 @@
 # W-lfpup
 
-## About me
-
 I am an independent creator and dog on the internet.
 
 I write software and educational materials mostly for web technologies.
 
-If you find my work helpful, support me on [patreon](https://patreon.com/cw/w_lfpup) or buy me a [ko-fi](https://ko-fi.com/w_lfpup).
+If you find my work helpful, subscribe on [patreon](https://patreon.com/cw/w_lfpup) or buy me a [ko-fi](https://ko-fi.com/w_lfpup)!
 
 ## Software
 
@@ -23,9 +21,6 @@ If you find my work helpful, support me on [patreon](https://patreon.com/cw/w_lf
 
 - [coyote-rs](https://github.com/w-lfpup/coyote-rs/) - Build HTML with templates and components
 - [snowprints-rs](https://github.com/w-lfpup/snowprints-rs/) - Generate unique and sortable 64bit ids
-- [file_server](https://github.com/w-lfpup/file_server/) - Serve files over http
-- [reverse_proxy](https://github.com/w-lfpup/reverse_proxy/) - Forward https requests to upstream servers
-- [update_dns_records](https://github.com/w-lfpup/update_dns_records/) - Update dns services when dynamic ip addresses change
 
 ### JSX
 
@@ -34,4 +29,4 @@ If you find my work helpful, support me on [patreon](https://patreon.com/cw/w_lf
 
 ## Demos
 
-- [redux-wctk](https://github.com/w-lfpup/redux-wctk/) - webcomponents reflect centralized state using @reduxjs/toolkit
+- [redux-wctk](https://github.com/w-lfpup/redux-wctk/) - Webcomponents reflect centralized state using @reduxjs/toolkit
